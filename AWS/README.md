@@ -1,0 +1,1 @@
+Este diretório foi criado para estudos em cima das ferramentas AWS para monitoramento de uma planta didática. Infelizmente, como as permições do autor são limitado pelo acesso academy, não é possível subir as chaves e certificados do projeto de forma segura. Dessa forma o arquivo foi inteiramente exluído das submissões.
